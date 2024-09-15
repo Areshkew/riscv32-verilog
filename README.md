@@ -74,6 +74,7 @@ The Python control script (`riscv_multigen.py`) simplifies running various tasks
 
 - [Kaleidoscope Compiler](https://github.com/Areshkew/kaleidoscope-riscv)
 - [Tiny RISC-V Compiler](https://github.com/Areshkew/tiny-risc-v)
+- [Piledined RISC-V processor](https://github.com/Areshkew/riscv32-pipelined)
 
 ## Project Structure
 
