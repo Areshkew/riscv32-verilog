@@ -1,0 +1,3 @@
+[submodule "kaleidoscope-riscv"]
+	path = kaleidoscope-riscv
+	url = https://github.com/Areshkew/kaleidoscope-riscv
